@@ -1,0 +1,326 @@
+{
+  "keys": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+  "middleware": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+  "i18n": {
+    "defaultLocale": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+    "dirs": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-i18n/config/config.default.js"
+  },
+  "view": {
+    "defaultViewEngine": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+    "mapping": {
+      ".html": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js"
+    },
+    "root": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view/config/config.default.js"
+  },
+  "assets": {
+    "publicPath": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+    "devServer": {
+      "debug": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+      "command": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+      "port": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+      "env": {
+        "APP_ROOT": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+        "BROWSER": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+        "ESLINT": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+        "SOCKET_SERVER": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+        "PUBLIC_PATH": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js"
+      },
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+      "autoPort": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+      "portPath": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+      "timeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+      "waitStart": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js"
+    },
+    "isLocalOrUnittest": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+    "url": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+    "templatePath": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+    "templateViewEngine": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+    "crossorigin": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js",
+    "contextKey": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-assets/config/config.default.js"
+  },
+  "security": {
+    "csrf": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.default.js",
+    "domainWhiteList": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "logger": {
+    "level": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.local.js",
+    "consoleLevel": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/config/config.local.js",
+    "dir": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "env": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-onerror/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "name": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "version": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "description": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "private": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "start": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "stop": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "dev": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "debug": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "test": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "cov": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "lint": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "ci": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "autod": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "bin": {
+      "umi": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@umijs/preset-react": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "axios": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg-view-assets": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "prop-types": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "qs": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "umi": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "url": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "peerDependencies": {
+      "umi": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/qs": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "autod": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "babel-plugin-dva-hmr": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "babel-plugin-import": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "redbox-react": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "url": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "license": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "strict": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "depth": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "logging": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "port": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/xiaobei/Documents/aminer/umi-feat-ssr-umi3/examples/ssr-with-eggjs/node_modules/egg/config/config.default.js"
+}
